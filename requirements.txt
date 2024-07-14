@@ -1,2 +1,0 @@
-crypto==1.4.1
-pycryptodome==3.10.1
