@@ -1,5 +1,8 @@
 # Hud’s Password Manager (CLI) v.1.0
 [SOLVE THE MAJOR PROBLEM OF STORING SCRIPT SECRETS, CREDENTIALS & API KEYS ON SERVERS]
+
+![HLD](./pams.png)
+
 ## Application Overview
 Hud’s Password Manager for Automations is a command-line interface (CLI) application designed to store and manage credentials securely. The application accepts and stores the following fields as inputs:
 - Organization
