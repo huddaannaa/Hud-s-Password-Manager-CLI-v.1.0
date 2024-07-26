@@ -55,6 +55,8 @@ The objective of Hud's Password Manager (CLI) v1.0 is to provide a secure, manag
 
 The architecture of Hud's Password Manager comprises several components working together to provide a secure environment for managing credentials. These components include a complex master key generator, an encrypted database, a control panel, and operational scripts.
 
+![HLD](./pams.png)
+
 #### Components
 
 1. **Complex Master Key/Passphrase Generator**
